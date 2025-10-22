@@ -9,7 +9,7 @@ export const projects: ProjectItem[] = [
   {
     title: "DocSmith",
     blurb:
-      "Client-side AI document assistant (Next.js/TS/Tailwind, Supabase). On-device Chrome summarizer/translator; offline, $0 inference; RLS-protected saves.",
+      "Client-side AI document assistant (Next.js/TS/Tailwind, Supabase). On-device Chrome summarizer/translator; offline",
     tags: ["Next.js", "TypeScript", "Supabase", "AI"],
   },
   {
