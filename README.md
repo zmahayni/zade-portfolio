@@ -4,7 +4,7 @@ This repository contains the code for my personal portfolio website. The site sh
 
 ## Live Site
 
-Visit my portfolio at [https://zademahayni.com](https://zademahayni.com) (placeholder link - will be updated when deployed)
+Visit my portfolio at https://zade-website.vercel.app/
 
 ## Technologies Used
 
